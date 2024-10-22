@@ -27,5 +27,3 @@ export const generatePassword = (length, options) => {
     
     return password;
 }; 
-
-module.exports = { generatePassword };
